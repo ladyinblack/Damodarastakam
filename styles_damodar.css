@@ -1,0 +1,90 @@
+body {
+  font-family: Arial;
+  background: white url(images/damodarastakam.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+header {
+  text-align: center;
+  color: #FFF;
+  text-shadow: 2px 2px 5px fuchsia;
+}
+
+div {
+	background-color: rgba(170, 187, 204, 0.75);
+}
+nav {
+  
+}
+
+nav ul {
+  margin: auto;
+}
+
+nav ul li {
+  list-style-type: none;
+  padding: 20px;
+  text-align: center;
+  border: 5px ridge yellow;
+  background-color: gold;
+  padding: 10px;
+  margin: 5px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-size: 100%;
+  color: fuchsia;
+}
+
+nav ul li a:hover {
+  color: #8B008B;
+  font-weight: bold;
+}
+
+#audio {
+  position: fixed;
+  bottom: 0;
+  left: 1%;
+}
+
+#verses {
+  margin-bottom: 100px;
+}
+
+#hindiverse {
+  display: none;
+}
+
+#englishverse {
+  display: block;
+}
+.hindi {
+	font-size: 2em;
+}
+button {
+  border: 5px ridge #ABC;
+  border-radius: 10px;
+  background-color: fuchsia;
+  padding: 5px 30px;
+}
+
+button#english {
+  margin-left: 10px;
+  background-color: #CD7EDF;
+  border: 5px ridge #893A9B;
+}
+button#hindi:hover, button#english:hover {
+  background-color: #CD7EDF;
+  border: 5px ridge #893A9B;
+}
+#menu {
+	display: block;
+}
+
+footer {
+	font-size: 10pt;
+}
