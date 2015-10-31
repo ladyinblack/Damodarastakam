@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+		xmlns:gap	= "http://phonegap.com/ns/1.0"
+		id			= "com.phonegap.damodarastakam"
+		version		= "1.0.0" >
+
+<name>Sri Damodarastakam</name>
+
+<description>
+  Now you can listen and sing along the Sri Damodarastakam from your mobile.  There are also stories of Kartik.  Two different versions of the same song, very beautiful and soothing.  The Damodarastakam is both in Sanskrit and written text.
+</description>
+
+<author href="http://www.cybrosoft.co.za" email="scientec.stctech@gmail.com">
+  CybRoSoft - Ronica Singh
+</author>
+
+</widget>
